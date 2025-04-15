@@ -1,2 +1,2 @@
-# Clase 2 Programación
- Conectar Unity con GitHub
+# Clase 3 Programación
+ Cambios hechos durante la clase 3
